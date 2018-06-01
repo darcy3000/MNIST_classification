@@ -1,0 +1,9 @@
+***********MNIST-DATA**************
+
+Team members:
+2015A7PS0080H-Navneet Kumar
+2015A7PS0107H-Rajat Biswas
+2015A7PS0111H-Abhijeet Bajaj
+
+Accuracy using fully connected network is 91% over 4000 iterations
+Accuracy using convolutional neural network is 98% using 2000 iterations 
